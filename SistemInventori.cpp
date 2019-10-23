@@ -4,6 +4,8 @@
 #include <cstdlib>
 #include <ctime>
 
+#by: Moh Nur Zamharir
+
 using namespace std;
 
 int main()
