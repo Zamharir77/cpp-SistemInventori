@@ -14,7 +14,7 @@ int main()
     int pilih;
     vector<string> item{"Batu","Pisau","Pedang","Pistol","Robot"};
     vector<int> stat{2,3,4,5,6};
-    vector<vector<string>> inven;
+    vector<string> inven;
     vector<string>::iterator i;
     int acak;
     int hapus;
